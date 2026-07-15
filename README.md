@@ -221,8 +221,8 @@ This internship provided practical exposure to the complete Data Analytics workf
 
 **Prashant Kumar**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/prashant23csu244
+- LinkedIn: https://www.linkedin.com/in/prashant-kumar-3b335b350/
 
 ---
 
